@@ -1,2 +1,2 @@
 # Twitter-Sentiment-Analysis
-It is a simple project for twitter sentiment analysist by applying pipelines and Transformers AutoTokenizer 
+It is a simple project to analyze Twitter sentiment by implementing HuggingFace pipelines and also implementing AutoModel and AutoTokenizer.
