@@ -11,7 +11,7 @@ Using HuggingFace's AutoModel and AutoTokenizer to build a sentiment analysis mo
 ## Sentiment Classification: 
 Implementing the model to accurately classify tweets as expressing either negative or positive sentiment.
 
-#Tools and Libraries
+# Tools and Libraries
 ## HuggingFace Transformers: 
 For model building and tokenization.
 ## AutoModel: 
